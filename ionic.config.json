@@ -1,0 +1,7 @@
+{
+  "name": "FlashApp",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
